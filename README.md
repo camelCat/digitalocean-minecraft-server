@@ -24,3 +24,6 @@ To connect to the server type `mc` into your command line
 2. mc restart
 3. mc stop
 4. mc start
+
+## Connecting in Minecraft
+The ip of the server gets stored in `server-info.txt`
