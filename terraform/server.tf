@@ -6,5 +6,5 @@ resource "digitalocean_droplet" "minecraft" {
   backups = var.backups
   ssh_keys = var.ssh_keys
   tags = var.tags
-  user_data = file("./script.bash")
+  user_data = file("./script.sh")
 }

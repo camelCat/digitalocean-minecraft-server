@@ -5,7 +5,8 @@ region = "ams3"
 
 // change this
 ssh_keys = [
-  00000000,
+  34396110,
+  34396119
 ]
 
 // change optionally
